@@ -1,5 +1,5 @@
 # Reverse-a-string
-This is java code for reversing a string.
+This is a java code for reversing a string.
 For example the word java becomes avaj.
 Simple project for beginners.
-Implements gui.
+With implemented gui.
